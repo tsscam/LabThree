@@ -1,0 +1,6 @@
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\LabThree\LabThree\bin\Debug\LabThree.exe.config
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\LabThree\LabThree\obj\Debug\LabThree.csprojResolveAssemblyReference.cache
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\LabThree\LabThree\bin\Debug\LabThree.exe
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\LabThree\LabThree\bin\Debug\LabThree.pdb
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\LabThree\LabThree\obj\Debug\LabThree.exe
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\LabThree\LabThree\obj\Debug\LabThree.pdb
